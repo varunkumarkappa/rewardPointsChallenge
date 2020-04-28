@@ -1,1 +1,1 @@
-# rewardPointsChallenge
+# RewardPointsChallenge
